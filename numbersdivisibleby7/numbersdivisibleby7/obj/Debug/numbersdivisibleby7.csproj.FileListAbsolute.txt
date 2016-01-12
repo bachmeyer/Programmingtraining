@@ -1,0 +1,6 @@
+C:\projects\numbersdivisibleby7\numbersdivisibleby7\bin\Debug\numbersdivisibleby7.exe.config
+C:\projects\numbersdivisibleby7\numbersdivisibleby7\bin\Debug\numbersdivisibleby7.exe
+C:\projects\numbersdivisibleby7\numbersdivisibleby7\bin\Debug\numbersdivisibleby7.pdb
+C:\projects\numbersdivisibleby7\numbersdivisibleby7\obj\Debug\numbersdivisibleby7.csprojResolveAssemblyReference.cache
+C:\projects\numbersdivisibleby7\numbersdivisibleby7\obj\Debug\numbersdivisibleby7.exe
+C:\projects\numbersdivisibleby7\numbersdivisibleby7\obj\Debug\numbersdivisibleby7.pdb
